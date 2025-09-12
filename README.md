@@ -9,6 +9,7 @@ This project involved analyzing an e-commerce dataset to evaluate sales performa
 
 ## Tools & Techniques Used
 **TOOL : Microsoft Excel** – for data cleaning, analysis, and visualization<br>
+**TECHNIQUES:**<br>
 Pivot Tables & Pivot Charts – to summarize and explore sales and customer data<br>
 Formulas & Functions – including IF, VLOOKUP/XLOOKUP, INDEX-MATCH, SUMIFS, AVERAGEIFS, etc., for data calculations<br>
 RFM Analysis (Recency, Frequency, Monetary) – for customer segmentation<br>
@@ -17,6 +18,7 @@ Forecasting Tools – to predict future sales trends<br>
 Dashboard Design – building a clean, insight-driven, and interactive interface for decision-making<br>
 
 ## Repository Structure
-[[README.md]] to get general overview of Project.
+[README.md](https://github.com/Sania-git/Ecommerce-Analysis-Excel/blob/main/README.md) to get general overview of Project.
+
 [[]]
 
