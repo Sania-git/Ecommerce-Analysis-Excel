@@ -18,10 +18,10 @@ Forecasting Tools – to predict future sales trends<br>
 Dashboard Design – building a clean, insight-driven, and interactive interface for decision-making<br>
 
 ## Repository Structure
-Click [README.md](https://github.com/Sania-git/Ecommerce-Analysis-Excel/blob/main/README.md) to get general overview of Project.
-Click [Raw Dataset.csv](https://github.com/Sania-git/Ecommerce-Analysis-Excel/blob/main/Raw%20Dataset.csv) to get raw data of this project.
-Click [Detailed Project Report](https://github.com/Sania-git/Ecommerce-Analysis-Excel/blob/main/ECOMMERCE%20REPORT%20EXCEL%20PROJ.docx) to get a whole report on the project.
-Click [Concise Project Report](https://github.com/Sania-git/Ecommerce-Analysis-Excel/blob/main/Concise_Report.docx) to get a concise report.
+- Click [README.md](https://github.com/Sania-git/Ecommerce-Analysis-Excel/blob/main/README.md) to get general overview of Project.
+- Click [Raw Dataset.csv](https://github.com/Sania-git/Ecommerce-Analysis-Excel/blob/main/Raw%20Dataset.csv) to get raw data of this project.
+- Click [Detailed Project Report](https://github.com/Sania-git/Ecommerce-Analysis-Excel/blob/main/ECOMMERCE%20REPORT%20EXCEL%20PROJ.docx) to get a whole report on the project.
+- Click [Concise Project Report](https://github.com/Sania-git/Ecommerce-Analysis-Excel/blob/main/Concise_Report.docx) to get a concise report.
 
 ## Dasboard Preview
 ![Ecommerce Analysis Excel dashboard](https://github.com/Sania-git/Ecommerce-Analysis-Excel/blob/main/Ecom%20dashboard%20pic.jpeg)
