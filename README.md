@@ -40,12 +40,10 @@ This project involved analyzing an e-commerce dataset to evaluate sales performa
 - Data Roadmap: Incorporate CLV, cohort analysis, and profitability metrics for deeper insights.
 
 ## Next Steps
--Launch targeted campaigns for top and at-risk customers.
+- Launch targeted campaigns for top and at-risk customers.
 - Perform SKU-level profitability analysis.
 - Build predictive CLV models for marketing strategies.
 - Automate dashboards to monitor KPIs monthly.
-
-
 
 ## License
 This project is licensed under the MIT License – see the [License](https://github.com/Sania-git/Ecommerce-Analysis-Excel/blob/main/LICENSE) for more details.
