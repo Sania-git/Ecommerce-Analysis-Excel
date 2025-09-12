@@ -9,7 +9,8 @@ This project involved analyzing an e-commerce dataset to evaluate sales performa
 
 ## Tools & Techniques Used
 **TOOL : Microsoft Excel** – for data cleaning, analysis, and visualization<br>
-**TECHNIQUES:** - Pivot Tables & Pivot Charts – to summarize and explore sales and customer data
+**TECHNIQUES:** 
+- Pivot Tables & Pivot Charts – to summarize and explore sales and customer data
 - Formulas & Functions – including IF, VLOOKUP/XLOOKUP, INDEX-MATCH, SUMIFS, AVERAGEIFS, etc., for data calculations
 - RFM Analysis (Recency, Frequency, Monetary) – for customer segmentation
 - Pareto (80/20) Analysis – to identify high-value products/customers
