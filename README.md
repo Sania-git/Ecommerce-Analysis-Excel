@@ -10,12 +10,12 @@ This project involved analyzing an e-commerce dataset to evaluate sales performa
 ## Tools & Techniques Used
 **TOOL : Microsoft Excel** – for data cleaning, analysis, and visualization<br>
 **TECHNIQUES:**<br>
-Pivot Tables & Pivot Charts – to summarize and explore sales and customer data<br>
-Formulas & Functions – including IF, VLOOKUP/XLOOKUP, INDEX-MATCH, SUMIFS, AVERAGEIFS, etc., for data calculations<br>
-RFM Analysis (Recency, Frequency, Monetary) – for customer segmentation<br>
-Pareto (80/20) Analysis – to identify high-value products/customers<br>
-Forecasting Tools – to predict future sales trends<br>
-Dashboard Design – building a clean, insight-driven, and interactive interface for decision-making<br>
+- Pivot Tables & Pivot Charts – to summarize and explore sales and customer data
+- Formulas & Functions – including IF, VLOOKUP/XLOOKUP, INDEX-MATCH, SUMIFS, AVERAGEIFS, etc., for data calculations
+- RFM Analysis (Recency, Frequency, Monetary) – for customer segmentation
+- Pareto (80/20) Analysis – to identify high-value products/customers
+- Forecasting Tools – to predict future sales trends
+- Dashboard Design – building a clean, insight-driven, and interactive interface for decision-making
 
 ## Repository Structure
 - Click [README.md](https://github.com/Sania-git/Ecommerce-Analysis-Excel/blob/main/README.md) to get general overview of Project.
@@ -23,6 +23,31 @@ Dashboard Design – building a clean, insight-driven, and interactive interface
 - Click [Detailed Project Report](https://github.com/Sania-git/Ecommerce-Analysis-Excel/blob/main/ECOMMERCE%20REPORT%20EXCEL%20PROJ.docx) to get a whole report on the project.
 - Click [Concise Project Report](https://github.com/Sania-git/Ecommerce-Analysis-Excel/blob/main/Concise_Report.docx) to get a concise report.
 
+## Key Insights
+- **Customers**: Potential Loyalists are largest group; churn risk evident in At Risk group.
+- **Products**: Laptops and Smartphones drive ~85–90% of total revenue.
+- **Regions**: East has fewer customers but highest revenue per customer.
+- **Spending**: Medium spenders generate ~50% of revenue; VIP spenders key for growth.
+- **Seasonality**: Q4 revenue spikes; retention needed post-promotions.
+
 ## Dasboard Preview
 ![Ecommerce Analysis Excel dashboard](https://github.com/Sania-git/Ecommerce-Analysis-Excel/blob/main/Ecom%20dashboard%20pic.jpeg)
+
+## Recommendations
+- Retention: Loyalty programs for Potential Loyalists; reactivation campaigns for At Risk customers.
+- Product Strategy: Prioritize Laptops and Smartphones; bundle low-performing products.
+- Regional Strategy: Invest in East (high-value customers); expand in South and West.
+- Data Roadmap: Incorporate CLV, cohort analysis, and profitability metrics for deeper insights.
+
+## Next Steps
+-Launch targeted campaigns for top and at-risk customers.
+- Perform SKU-level profitability analysis.
+- Build predictive CLV models for marketing strategies.
+- Automate dashboards to monitor KPIs monthly.
+
+
+
+## License
+This project is licensed under the MIT License – see the [License](https://github.com/Sania-git/Ecommerce-Analysis-Excel/blob/main/LICENSE) for more details.
+
 
