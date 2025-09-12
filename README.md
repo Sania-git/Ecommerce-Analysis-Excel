@@ -8,7 +8,7 @@ The Dataset of this project was sourced from Kaggle. [https://www.kaggle.com/dat
 This project involved analyzing an e-commerce dataset to evaluate sales performance and customer behavior. Using Excel, I cleaned and structured raw transaction data, applied techniques such as RFM segmentation, forecasting, and Pareto analysis, and developed a dynamic dashboard for visualization. The dashboard highlights key metrics like revenue trends, average order value, customer retention, and churn. By combining interactive charts, slicers, and KPIs, the project delivers a comprehensive view of business performance and provides actionable insights to guide strategic decision-making.
 
 ## Tools & Techniques Used
-** TOOL : Microsoft Excel** – for data cleaning, analysis, and visualization /n
+** TOOL : Microsoft Excel** – for data cleaning, analysis, and visualization<br>
 Pivot Tables & Pivot Charts – to summarize and explore sales and customer data
 Formulas & Functions – including IF, VLOOKUP/XLOOKUP, INDEX-MATCH, SUMIFS, AVERAGEIFS, etc., for data calculations
 RFM Analysis (Recency, Frequency, Monetary) – for customer segmentation
