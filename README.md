@@ -22,6 +22,7 @@ This project involved analyzing an e-commerce dataset to evaluate sales performa
 - Click [Raw Dataset.csv](https://github.com/Sania-git/Ecommerce-Analysis-Excel/blob/main/Raw%20Dataset.csv) to get raw data of this project.
 - Click [Detailed Project Report](https://github.com/Sania-git/Ecommerce-Analysis-Excel/blob/main/ECOMMERCE%20REPORT%20EXCEL%20PROJ.docx) to get a whole report on the project.
 - Click [Concise Project Report](https://github.com/Sania-git/Ecommerce-Analysis-Excel/blob/main/Concise_Report.docx) to get a concise report.
+- Click [Dasboard](https://github.com/Sania-git/Ecommerce-Analysis-Excel/blob/main/Dashboard%20ecomm%20analysis%20proj.xlsx) to get the dashboard file.
 
 ## Key Insights
 - **Customers**: Potential Loyalists are largest group; churn risk evident in At Risk group.
